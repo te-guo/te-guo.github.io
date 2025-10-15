@@ -21,10 +21,10 @@ repository               : "te-guo/te-guo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Te Guo"
   pronouns         : "he/him"  
-  bio              : "Second Year PhD Student in Computer Science"
+  bio              : "Third Year PhD Student in Computer Science"
   location         : "West Lafayette, IN, USA"
   employer         : "Purdue University"
   uri              : https://te-guo.github.io
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "te-guo-bab15b268"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
