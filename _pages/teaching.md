@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 - Teaching Assistant, Purdue University.
+  - CS 448: Introduction To Relational Database Systems (Spring 2026)
   - CS 240: Programming in C (Fall 2024, Spring 2025, Fall 2025)
