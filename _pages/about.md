@@ -24,7 +24,7 @@ Work Experience
 
 Publications
 ======
-**[SIGMOD'26]** O3-LSM: Maximizing Disaggregated LSM Write Performance via Three-Layer Offloading.  
+**[SIGMOD'26]** [O3-LSM: Maximizing Disaggregated LSM Write Performance via Three-Layer Offloading](https://dl.acm.org/doi/10.1145/3802093).  
  Qi Lin, Gangqi Huang, **Te Guo**, Chang Guo, Viraj Thakkar, Zichen Zhu, Jianguo Wang, Zhichao Cao.  
  Proceedings of the ACM on Management of Data (SIGMOD'26), Bengaluru, India
 
