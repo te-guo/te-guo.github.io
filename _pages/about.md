@@ -11,7 +11,7 @@ Te Guo is a third-year Ph.D. student in [Department of Computer Science at Purdu
 He is supervised by [Prof. Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/).
 He obtained his Bachelor's degree in Computer Science at [Yao Class, Tsinghua University](https://iiis.tsinghua.edu.cn/en/).
 
-His research focuses on disaggregated database and vector databases.
+His research focuses on disaggregated databases and vector databases.
 
 Education
 ======
@@ -20,7 +20,7 @@ Education
 
 Work Experience
 ======
-- Software Engineering Intern at Databricks, May 2026 – Aug 2026
+- Software Engineering Intern, Databricks, May 2026 – Aug 2026
 
 Publications
 ======
