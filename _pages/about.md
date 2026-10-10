@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Te Guo is a third-year Ph.D. student in [Department of Computer Science at Purdue University](https://www.cs.purdue.edu).
+Te Guo is a fourth-year Ph.D. student in [Department of Computer Science at Purdue University](https://www.cs.purdue.edu).
 He is supervised by [Prof. Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/).
 He obtained his Bachelor's degree in Computer Science at [Yao Class, Tsinghua University](https://iiis.tsinghua.edu.cn/en/).
 
@@ -21,6 +21,7 @@ Education
 Work Experience
 ======
 - Software Engineering Intern, Databricks, May 2026 – Aug 2026
+- AI-Platform Infrastructural Technology R&D Intern, 4Paradigm, Mar 2023 – Jun 2023
 
 Publications
 ======
